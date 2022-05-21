@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22b00a5dfeebb622",
+        "id": "530711dfaa642610",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cheese document.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheese document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +91,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22b00a5dfeebb622",
+  "active": "530711dfaa642610",
   "lastOpenFiles": [
     "cheese document.md",
+    "Pasted image 20220521024943.png",
     "zku/notes/week01_notes.md",
     "zku/notes/week02_notes.md",
     "etc/images/Pasted image 20220520233726.png",
