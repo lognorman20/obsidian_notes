@@ -7,8 +7,12 @@
         "id": "22b00a5dfeebb622",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "cheese document.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cheese document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +98,7 @@
   },
   "active": "22b00a5dfeebb622",
   "lastOpenFiles": [
+    "cheese document.md",
     "zku/notes/week01_notes.md",
     "zku/notes/week02_notes.md",
     "etc/images/Pasted image 20220520233726.png",
