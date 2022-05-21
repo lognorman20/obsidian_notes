@@ -19,13 +19,13 @@
   --text-a-hover: #b3a14b;
   --text-muted: #bbc0c5;/* 标题非激活状态 #a5a5a5*/
   --text-mark: #686028;/* 预览高亮*/
-  --pre-code: #272524d9;/* #272524d9*/
+  --pre-code: #0d1117;/* #272524d9*/
   --text-highlight-bg: #686028;/* 编辑窗口高亮*/
   --interactive-accent: #0267ff; /* accent color */
-  --interactive-before: #d29922; /* before #5e6565 */
-  --background-modifier-border: #92a1a17a;
+  --interactive-before: #5e6565; /* changed */
+  --background-modifier-border: #0d1117;
   --blockquote-border: #6a7070; /* rgba(77, 60, 166, .6);*/
-  --text-accent: #ff9640ba;
+  --text-accent: #0d1117;
   --interactive-accent-rgb: #f1400b;
   --text-selection: #406488; /*#682f36;506468;文字选中时的颜色*/
 }
