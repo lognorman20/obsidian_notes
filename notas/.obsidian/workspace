@@ -7,8 +7,12 @@
         "id": "530711dfaa642610",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zku/notes/week03_notes.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 314.5
   },
   "right": {
     "id": "6bbe10e046b537c7",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zku/notes/week03_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,13 +98,15 @@
   },
   "active": "530711dfaa642610",
   "lastOpenFiles": [
+    "zku/notes/week03_notes.md",
+    "zku/notes/Pasted image 20220521025527.png",
+    "zku/notes/Pasted image 20220521025502.png",
+    "etc/images/Pasted image 20220520233427.png",
+    "etc/images/Pasted image 20220520233117.png",
+    "etc/images/Pasted image 20220520233105.png",
     "cheese document.md",
     "Pasted image 20220521024943.png",
     "zku/notes/week01_notes.md",
-    "zku/notes/week02_notes.md",
-    "etc/images/Pasted image 20220520233726.png",
-    "zku/notes/week03_notes.md",
-    "zku/assignments/week03_notes.md",
-    "zku/assignments/week02_assignment.md"
+    "zku/notes/week02_notes.md"
   ]
 }
