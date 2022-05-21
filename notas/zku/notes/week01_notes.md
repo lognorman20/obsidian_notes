@@ -45,7 +45,7 @@ ZKPs are graded on prover time, proof size, verification time.
 
 <mark>How is proof size calculated?</mark>
 
-zkSnarks (Groth16) have a feairly efficient prover time, constant proof size (192 bytes) and constant/fast verification time, which is why they are so popular.
+zkSnarks (Groth16) have a fairly efficient prover time, constant proof size (192 bytes) and constant/fast verification time, which is why they are so popular.
 
 [Collection of "awesome zkps"](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 

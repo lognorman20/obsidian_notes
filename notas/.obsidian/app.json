@@ -1,4 +1,10 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "etc/images"
 }
