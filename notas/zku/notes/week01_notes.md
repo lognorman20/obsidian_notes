@@ -1,5 +1,5 @@
 # Week 1 Notes
-
+idk
 ## [Intro to ZKP - Elena ](https://www.youtube.com/watch?v=BT88s7_VtC8)
 
 [Link to slides](https://docs.google.com/presentation/d/10JmV3-VxPtdHlrX4MSu-ERH82IonZeLrDdLZ1lJ6Wlc/edit)
