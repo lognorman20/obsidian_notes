@@ -22,7 +22,7 @@
   --pre-code: #272524d9;/* #272524d9*/
   --text-highlight-bg: #686028;/* 编辑窗口高亮*/
   --interactive-accent: #0267ff; /* accent color */
-  --interactive-before: #5e6565;
+  --interactive-before: #d29922; /* before #5e6565 */
   --background-modifier-border: #92a1a17a;
   --blockquote-border: #6a7070; /* rgba(77, 60, 166, .6);*/
   --text-accent: #ff9640ba;
