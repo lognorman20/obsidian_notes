@@ -6,7 +6,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "etc/images",
+  "attachmentFolderPath": "./",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
