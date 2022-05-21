@@ -7,7 +7,7 @@
 
 ### What is a Merkle Tree?
 
-![[Pasted image 20220520233427.png]]
+![[Pasted image 20220521023239.png]]
 
 Merkle Trees are used to prove that a transaction was included in a block.
 

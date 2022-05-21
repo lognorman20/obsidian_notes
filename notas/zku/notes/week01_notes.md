@@ -1,5 +1,4 @@
 # Week 1 Notes
-idk
 ## [Intro to ZKP - Elena ](https://www.youtube.com/watch?v=BT88s7_VtC8)
 
 [Link to slides](https://docs.google.com/presentation/d/10JmV3-VxPtdHlrX4MSu-ERH82IonZeLrDdLZ1lJ6Wlc/edit)
@@ -32,8 +31,8 @@ zkSNARKS transform a statement into langauge of polynomials. There is a prover, 
 
 [This article](https://xord.com/research/the-trusted-setup-of-zk-snark/) explains that since the prover might cheat the verifier with a fake proof, someone could give the full representation of a statement to a verifier; however, this is slow and not feasible if we want to make a verifier a stateless node. The artcle notes three different ways that the verifer knows what is being proven:
 1. Full statement - the verifier get s a full representation of the relation, runs in linear time to the relation size. This can be done through bulletproofs. They produce a URS (uniform random string) which is a kind of CRS whihc does not encode the relation thus not proviiding succinctness
-2. Succinct statement - the verifier get sa succinct and basic representation of a computation whihc is being repeated many times. For example, proving the computation of 100 committments will require only one committment. Examples of this are the BCGTV12 and FRI-based STARK which then further generates a URS with pre-processing that is sublinear of the size of the relation
-3. Pre-processing - The vverifier is provided with a summary fo the relation, meaning that the pre-processing changes the relation into some short string. If one wants to have a short verifier running time with a relation which is not uniform then one cannot get rid of the pre-processing of the SNARKS
+2. Succinct statement - the verifier gets a succinct and basic representation of a computation whihc is being repeated many times. For example, proving the computation of 100 committments will require only one committment. Examples of this are the BCGTV12 and FRI-based STARK which then further generates a URS with pre-processing that is sublinear of the size of the relation
+3. Pre-processing - The verifier is provided with a summary of the relation, meaning that the pre-processing changes the relation into some short string. If one wants to have a short verifier running time with a relation which is not uniform then one cannot get rid of the pre-processing of the SNARKS
 
 The trusted setup depends on some non-public randomness to avoid the backgoor of generating proofs. This leads to the argument that pre-processing kills the purpose of ZK proofs, but to accommodate this, SNARKS that have secret reference string are best couple with multi-party computation (MPC). MPC is where even if only one party behaves honestly, then the system will remain secure.
 
