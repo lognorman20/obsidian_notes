@@ -8,6 +8,4 @@ for (int i = 0; i < 10; ++i){
 }
 ```
 
-bro i rock with obsidian heavy. this markdown editor is crazy especially with vim. and now i am finding about 
-
-
+now i'm trying out this git ting while listening to that uk muzik innat
