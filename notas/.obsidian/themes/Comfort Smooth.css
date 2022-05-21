@@ -8,8 +8,8 @@
   --text-graph: #dde0e5;
   --dot-graph: #bbc0c5;
   --text-faint: #a09b80;/* 三角折叠符号;*/
-  --text-title-h1: #f1400b;
-  --text-title-h2: #ba7390;
+  --text-title-h1: #F10B0B;
+  --text-title-h2: #f1400b;
   --text-title-h3: #b78b60;
   --text-title-h4: #a79645;/*a79645;*/
   --text-title-h5: #859676;
@@ -21,7 +21,7 @@
   --text-mark: #686028;/* 预览高亮*/
   --pre-code: #272524d9;/* #272524d9*/
   --text-highlight-bg: #686028;/* 编辑窗口高亮*/
-  --interactive-accent: #a79040; /* 标题栏激活状态亮纹 */
+  --interactive-accent: #0267ff; /* accent color */
   --interactive-before: #5e6565;
   --background-modifier-border: #92a1a17a;
   --blockquote-border: #6a7070; /* rgba(77, 60, 166, .6);*/
