@@ -1,5 +1,5 @@
 # Week 2 Notes
-
+***
 ## Merkle Trees
 
 [Merkle Tree Youtube Video](https://www.youtube.com/watch?v=n6nEPaE7KZ8&t=1s&ab_channel=SmartContractProgrammer)
