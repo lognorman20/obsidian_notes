@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zku/assignments/week02_assignment.md",
+            "file": "zku/assignments/week03_notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zku/assignments/week02_assignment.md",
+                "file": "zku/assignments/week03_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,16 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "a422e7de7652b3be",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a97a00130c4ca243",
   "lastOpenFiles": [
+    "zku/assignments/week03_notes.md",
     "zku/assignments/week02_assignment.md"
   ]
 }
